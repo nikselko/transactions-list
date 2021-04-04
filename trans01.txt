@@ -1,0 +1,11 @@
+mail 100
+mail 45
+browser 80
+editor 35
+mail 20
+browser -60
+editor 40
+mail -30
+browser 85
+editor 0
+mail 15
