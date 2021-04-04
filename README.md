@@ -15,4 +15,5 @@ C++ program that processes a list of resource transactions / claims stored in a 
 9. Check pool size
 10. Quit
 
-## Programmer: Nikita Seliverstov (nikselko)
+## Programmer: 
+Nikita Seliverstov (nikselko)
